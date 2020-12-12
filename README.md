@@ -10,4 +10,4 @@ The image is available using the following two tags:
 - `containerssh/containerssh-guest-image:latest`
 - `quay.io/containerssh/containerssh-guest-image:latest`
 
-<p align="center"><strong>Note about Docker rate limits: Docker has graciously excluded ContainerSSH from rate limits as part of <a href="https://www.docker.com/blog/expanded-support-for-open-source-software-projects/">their support for open source projects</a>.</p>
+<p align="center"><strong>Note about Docker rate limits:</strong> Docker has graciously excluded ContainerSSH from rate limits as part of <a href="https://www.docker.com/blog/expanded-support-for-open-source-software-projects/">their support for open source projects</a>.</p>
