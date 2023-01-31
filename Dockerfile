@@ -1,6 +1,6 @@
 FROM containerssh/agent:latest AS agent
 
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 
 RUN echo "\e[1;32mUpdating packages and installing SFTP server package...\e[0m" && \
     DEBIAN_FRONTEND=noninteractive apt-get -o Dpkg::Options::='--force-confold' update && \
